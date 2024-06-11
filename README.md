@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/anand-kumar-dalwaie-0018b71b8/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://yourwebsite.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white" alt="website"/></a>
   <a href="mailto:akn915573@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="email"/></a>
-  <a href="https://www.instagram.com/_what_if_am_i/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
 ---
