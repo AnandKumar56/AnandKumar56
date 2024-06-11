@@ -5,9 +5,9 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/anand-kumar-dalwaie-0018b71b8/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://yourwebsite.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white" alt="website"/></a>
-  <a href="mailto:akn915573@gmai.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/anand-kumar-dalwaie-0018b71b8/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://yourwebsite.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Website-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white" alt="website"/></a>
+  <a href="mailto:akn915573@gmai.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="email"/></a>
 </p>
 
 ---
