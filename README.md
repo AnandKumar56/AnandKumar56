@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anandkumar56&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=Anandkumar56&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="profile-views" />
 </div>
 
 ## 🌟 About Me
