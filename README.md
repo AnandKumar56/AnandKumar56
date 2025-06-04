@@ -110,14 +110,14 @@ My journey in technology is driven by continuous learning and the belief that AI
       <td width="50%">
         <h3 align="center">Prediction of Disease Outbreaks</h3>
         <div align="center">
-          <a href="https://github.com/Anandkumar56/disease-outbreak-prediction" target="_blank">
+          <a href="[https://github.com/Anandkumar56/disease-outbreak-prediction](https://github.com/AnandKumar56/Prediction-of-Disease-Outbreaks-Using-ML.)" target="_blank">
             <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+Machine+Learning;Streamlit+%7C+Cloud+Deployment;Early+Detection+System&font=Fira%20Code&center=true&width=380&height=50&color=f75c7e&vCenter=true&size=16">
           </a>
           <p>
             <a href="https://github.com/Anandkumar56/disease-outbreak-prediction" target="_blank">
               <img src="https://img.shields.io/badge/Code-1D1E23?style=for-the-badge&logo=github&logoColor=white">
             </a>
-            <a href="#" target="_blank">
+            <a href="https://disease-prediction-outbreaks.streamlit.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
             </a>
           </p>
@@ -133,10 +133,10 @@ My journey in technology is driven by continuous learning and the belief that AI
             <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+NLP;Machine+Learning;Intent-based+Responses&font=Fira%20Code&center=true&width=380&height=50&color=f75c7e&vCenter=true&size=16">
           </a>
           <p>
-            <a href="https://github.com/Anandkumar56/nlp-chatbot" target="_blank">
+            <a href="[https://github.com/Anandkumar56/nlp-chatbot](https://github.com/AnandKumar56/Implementation_of_Chatbot_Using_NLP)" target="_blank">
               <img src="https://img.shields.io/badge/Code-1D1E23?style=for-the-badge&logo=github&logoColor=white">
             </a>
-            <a href="#" target="_blank">
+            <a href="https://mychatbot-ai.streamlit.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
             </a>
           </p>
