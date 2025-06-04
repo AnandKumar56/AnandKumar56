@@ -84,43 +84,6 @@ My journey in technology is driven by continuous learning and the belief that AI
   
 </div>
 
-## 💼 Professional Experience
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">AI: Transformative Learning | Edunet Foundation</h3>
-        <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com/?lines=Jan+2025+-+Feb+2025;Virtual+Internship;Machine+Learning+%7C+Microsoft+AI+%7C+Cloud&font=Fira%20Code&center=true&width=380&height=50&color=f75c7e&vCenter=true&size=16">
-          <p><strong>• Developed a Machine Learning model for disease outbreak prediction</strong></p>
-          <p><strong>• Utilized Microsoft AI tools & Cloud to enhance model performance</strong></p>
-          <p><strong>• Implemented real-time data analysis, improving response prediction accuracy by 30%</strong></p>
-        </div>
-      </td>
-      <td>
-        <h3 align="center">Green Skills using AI | Edunet Foundation</h3>
-        <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com/?lines=Dec+2024+-+Jan+2025;Virtual+Internship;NLP+%7C+Chatbot+%7C+Cloud+Deployment&font=Fira%20Code&center=true&width=380&height=50&color=f75c7e&vCenter=true&size=16">
-          <p><strong>• Focused on AI and Data Analytics for sustainable solutions</strong></p>
-          <p><strong>• Developed an NLP-based chatbot for user interaction</strong></p>
-          <p><strong>• Implemented text preprocessing, conversational AI workflows, and cloud deployment</strong></p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <h3 align="center">Developer Virtual Internship | Salesforce</h3>
-        <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com/?lines=Nov+2023+-+Jan+2024;Salesforce+Development;LWC+%7C+Apex+%7C+Process+Builder&font=Fira%20Code&center=true&width=380&height=50&color=f75c7e&vCenter=true&size=16">
-          <p><strong>• Developed and optimized Lightning Web Components (LWC) for Salesforce applications</strong></p>
-          <p><strong>• Automated business workflows using Process Builder and Apex Triggers</strong></p>
-          <p><strong>• Earned Salesforce Superbadges, demonstrating proficiency in key development concepts</strong></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🔥 Featured Projects
 
@@ -203,30 +166,6 @@ My journey in technology is driven by continuous learning and the belief that AI
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandkumar56&theme=radical" alt="Anandkumar56" />
 </div>
-
-## 🏆 Certifications
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/1E6mnuIHQXtsXoYOU8pPpsCmIxnhoMDXE/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1UYKv94ML3vrqYOuWIoKRUEZKqkECusS3/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/IBM-Cloud_Computing_Fundamentals-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1yVBwnAWebfSBo-W4bkAg8QDb_3glzTez/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-AI_Fundamentals-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1GxQ54Q5lVpbzflEe6HXGSJnrD5vfRNh2/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/edX-Big_Data,_Hadoop_Spark-02262B?style=for-the-badge&logo=edx&logoColor=white" alt="Big Data"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1Up4BoyphmtP540OwkA9dMNyWY57IsxeJ/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Cybersecurity"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1f9Dgyb5N6H5qub9PfLX8GAWoAKLmYKhT/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Google-Foundational_Course_on_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GenAI"/>
-  </a>
-</div>
-
 
 
 ## 🌈 Current Focus
