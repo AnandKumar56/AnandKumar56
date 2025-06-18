@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/anandkumardalwaie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:akn915573@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Anandkumar56"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="tel:+919640080817"><img src="https://img.shields.io/badge/Contact-+91--9640080817-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+  <a href="https://anand-digital-showcase.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <div align="center">
@@ -188,8 +188,8 @@ My journey in technology is driven by continuous learning and the belief that AI
   <a href="https://github.com/Anandkumar56" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="tel:+919640080817" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-+91--9640080817-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  <a href="https://anand-digital-showcase.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
