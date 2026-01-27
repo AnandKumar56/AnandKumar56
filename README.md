@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/Anandkumar56/Anandkumar56">
-    <img src="[game.gif](https://github.com/AnandKumar56/AnandKumar56/blob/966e0914eff0c147728a37fc821fb07fccdbbe91/game.gif)" alt="Space Shooter Status">
+    <img src="https://github.com/AnandKumar56/AnandKumar56/blob/966e0914eff0c147728a37fc821fb07fccdbbe91/game.gif" alt="Space Shooter Status">
   </a>
 </div>
 
@@ -29,12 +29,12 @@
 
 ## 🌟 About Me
 
-[cite_start]I am a **B.Tech (2025) graduate in Artificial Intelligence & Data Science**[cite: 8], passionate about bridging the gap between complex ML models and user-friendly software. I specialize in building **Scalable SaaS applications**, **RAG pipelines**, and **Data-driven solutions**.
+I am a **B.Tech (2025) graduate in Artificial Intelligence & Data Science**, passionate about bridging the gap between complex ML models and user-friendly software. I specialize in building **Scalable SaaS applications**, **RAG pipelines**, and **Data-driven solutions**.
 
 * [cite_start]🔭 **Experience:** AI Intern at **Edunet Foundation**, where I built disease prediction models that achieved a **30% increase in predictive accuracy**.
 * 🛠 **Building:** **AI-powered Agricultural Negotiation System** & **Notion Life OS**.
 * 🧠 **Learning:** **LangChain, LangGraph, & Agentic Workflows**.
-* [cite_start]☁️ **Cloud:** Deploying scalable apps on **GCP, Azure, and IBM Cloud**[cite: 39].
+* ☁️ **Cloud:** Deploying scalable apps on **GCP, Azure, and IBM Cloud**.
 
 ---
 
