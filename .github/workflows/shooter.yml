@@ -27,7 +27,7 @@ jobs:
       
       - name: Pull latest changes
         run: |
-          git pull origin ${{ github.ref_name }} --rebase --autostash
+          git pull origin ${{ github.ref_name }} --rebase --autostash || echo "Pull failed or no changes to pull"
       
       - uses: czl9707/gh-space-shooter@v1
         with:
