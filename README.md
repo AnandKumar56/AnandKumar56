@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/Anandkumar56/Anandkumar56">
-    <img src="https://github.com/Anandkumar56/Anandkumar56/actions/workflows/shooter.yml/badge.svg" alt="Space Shooter Status">
+    <img src="game.gif alt="Space Shooter Status">
   </a>
 </div>
 
