@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/Anandkumar56/Anandkumar56">
-    <img src="game.gif alt="Space Shooter Status">
+    <img src="[game.gif](https://github.com/AnandKumar56/AnandKumar56/blob/966e0914eff0c147728a37fc821fb07fccdbbe91/game.gif)" alt="Space Shooter Status">
   </a>
 </div>
 
