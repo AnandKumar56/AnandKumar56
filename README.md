@@ -29,12 +29,13 @@
 
 ## 🌟 About Me
 
-I am a **B.Tech (2025) graduate in Artificial Intelligence & Data Science**, passionate about bridging the gap between complex ML models and user-friendly software. I specialize in building **Scalable SaaS applications**, **RAG pipelines**, and **Data-driven solutions**.
+I'm an **AI & Data Science** specialist with a passion for leveraging cutting-edge technologies to solve real-world problems. Having recently graduated with my B.Tech in **Artificial Intelligence & Data Science**, I combine theoretical knowledge with practical implementation through multiple internships and hands-on projects.
 
-* [cite_start]🔭 **Experience:** AI Intern at **Edunet Foundation**, where I built disease prediction models that achieved a **30% increase in predictive accuracy**.
-* 🛠 **Building:** **AI-powered Agricultural Negotiation System** & **Notion Life OS**.
-* 🧠 **Learning:** **LangChain, LangGraph, & Agentic Workflows**.
-* ☁️ **Cloud:** Deploying scalable apps on **GCP, Azure, and IBM Cloud**.
+My journey in technology is driven by continuous learning and the belief that AI can transform how we approach challenges across industries. I specialize in creating intelligent systems with clean architecture and intuitive interfaces, always with scalability and user experience in mind.
+
+**Actively seeking internship/full-time opportunities** to contribute to innovative AI projects and grow within a dynamic tech environment.
+
+*When I'm not coding, you'll find me exploring new tools on GitHub, contributing to projects, or mentoring peers.*
 
 ---
 
