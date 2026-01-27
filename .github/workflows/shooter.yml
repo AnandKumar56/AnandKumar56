@@ -25,7 +25,7 @@ jobs:
       
       - name: Pull latest changes
         run: |
-          git pull origin main --rebase
+          git pull origin ${{ github.ref_name }} --rebase
       
       - uses: czl9707/gh-space-shooter@v1
         with:
