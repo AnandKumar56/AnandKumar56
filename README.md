@@ -6,9 +6,15 @@
         <br>
         <strong>"Aspiring AI Engineer | Full-Stack Developer | 2025 Grad"</strong>
         <br><br>
-        <a href="https://www.linkedin.com/in/anandkumardalwaie"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-        <a href="mailto:anandkumardalwaie1@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-        <a href="https://anand-dev-amber.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://www.linkedin.com/in/anandkumardalwaie" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:anandkumardalwaie1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://anand-dev-amber.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
         <br><br>
         <img src="https://komarev.com/ghpvc/?username=Anandkumar56&label=Profile%20Views&color=0e75b6&style=flat" alt="anandkumar56" />
       </td>
